@@ -1,0 +1,10 @@
+#services img {
+    height: 150px;
+}
+
+.white{
+    color: white;
+}
+i:hover {
+    color: bisque;
+}
